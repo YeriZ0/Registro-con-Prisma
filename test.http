@@ -1,0 +1,8 @@
+POST http://localhost:3000/api/usuarios/registro
+Content-Type: application/json
+
+{
+    "nombre" : "KarRenela",
+    "email" : "rene726@gmail.com",
+    "password" : "futbol"
+}
